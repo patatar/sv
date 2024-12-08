@@ -1,4 +1,16 @@
 {
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-08 21:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_spruce_taiga": "2024-12-08 21:58:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-08 21:59:37 +0000"
@@ -11,23 +23,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-08 21:58:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-08 21:59:37 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "minecraft:old_growth_spruce_taiga": "2024-12-08 21:58:15 +0000"
+      "killed_by_something": "2024-12-08 22:06:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3955
 }
