@@ -394,3 +394,8 @@
 [23:18:47] [Server thread/INFO]: They left the game
 [23:18:50] [Server thread/INFO]: G4mer7447 lost connection: Disconnected
 [23:18:50] [Server thread/INFO]: G4mer7447 left the game
+[23:31:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:31:33] [Server thread/INFO]: x<--[HERE]
+[23:31:40] [Server thread/INFO]: Stopping server
+[23:31:40] [Server thread/INFO]: Saving players
+[23:31:40] [Server thread/INFO]: Saving worlds
