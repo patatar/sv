@@ -117,7 +117,8 @@
       "mushroom_stew": "2024-12-08 22:14:09 +0000",
       "sweet_berries": "2024-12-10 19:10:30 +0000",
       "cooked_beef": "2024-12-10 20:02:39 +0000",
-      "melon_slice": "2024-12-08 22:34:49 +0000"
+      "melon_slice": "2024-12-08 22:34:49 +0000",
+      "carrot": "2024-12-10 20:33:12 +0000"
     },
     "done": false
   },
@@ -1224,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-10 20:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-10 19:28:18 +0000"
@@ -1617,6 +1624,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-10 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-10 20:32:50 +0000"
     },
     "done": true
   },
