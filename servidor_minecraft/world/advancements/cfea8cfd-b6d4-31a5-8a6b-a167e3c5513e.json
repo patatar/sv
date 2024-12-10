@@ -325,6 +325,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-10 20:53:47 +0000",
       "mutton": "2024-12-10 19:12:49 +0000",
       "bread": "2024-12-10 18:58:29 +0000",
       "cooked_mutton": "2024-12-08 22:27:50 +0000",
@@ -1783,6 +1784,18 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-10 20:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-10 20:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-10 20:47:56 +0000"
     },
     "done": true
   },
