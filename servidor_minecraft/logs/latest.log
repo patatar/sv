@@ -177,3 +177,9 @@
 [20:56:20] [Server thread/INFO]: G4mer7447 was shot by Skeleton
 [20:57:08] [Server thread/INFO]: G4mer7447 was slain by Zombie
 [20:57:52] [Server thread/INFO]: G4mer7447 was slain by Zombie
+[21:00:49] [Server thread/INFO]: G4mer7447 was shot by Skeleton
+[21:01:44] [Server thread/INFO]: G4mer7447 was shot by Skeleton
+[21:02:24] [Server thread/INFO]: G4mer7447 was shot by Skeleton
+[21:04:01] [Server thread/INFO]: Villager class_1646['Villager'/60193, l='ServerLevel[world]', x=247.50, y=55.56, z=515.50] died, message: 'Villager suffocated in a wall'
+[21:04:10] [Server thread/INFO]: Villager class_1646['Villager'/60194, l='ServerLevel[world]', x=247.55, y=56.56, z=517.71] died, message: 'Villager suffocated in a wall'
+[21:04:10] [Server thread/INFO]: Villager class_1646['Villager'/60196, l='ServerLevel[world]', x=247.39, y=56.56, z=518.67] died, message: 'Villager suffocated in a wall'
