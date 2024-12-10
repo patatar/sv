@@ -139,3 +139,17 @@
 [19:31:51] [Server thread/INFO]: G4mer7447[/127.143.71.218:54491] logged in with entity id 35448 at (314.59888764009276, 74.0, 786.924840844141)
 [19:31:51] [Server thread/INFO]: G4mer7447 joined the game
 [19:38:59] [Server thread/INFO]: They has made the advancement [Acquire Hardware]
+[19:49:28] [Server thread/INFO]: G4mer7447 has made the advancement [A Seedy Place]
+[19:52:22] [Server thread/INFO]: They has made the advancement [The Parrots and the Bats]
+[19:54:13] [Server thread/INFO]: Villager class_1646['Villager'/38864, l='ServerLevel[world]', x=247.74, y=56.56, z=518.68] died, message: 'Villager suffocated in a wall'
+[19:56:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=250, y=64, z=581} class_2338{x=249, y=64, z=580}
+[20:04:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=251, y=64, z=585} class_2338{x=251, y=62, z=584}
+[20:04:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=251, y=64, z=585} class_2338{x=251, y=62, z=584}
+[20:08:07] [Server thread/INFO]: G4mer7447 fell from a high place
+[20:08:53] [Server thread/INFO]: Villager class_1646['Villager'/40699, l='ServerLevel[world]', x=247.40, y=56.56, z=518.25] died, message: 'Villager suffocated in a wall'
+[20:08:58] [Server thread/INFO]: G4mer7447 was slain by Enderman
+[20:12:40] [Server thread/INFO]: G4mer7447 lost connection: Timed out
+[20:12:40] [Server thread/INFO]: G4mer7447 left the game
+[20:12:40] [Server thread/WARN]: handleDisconnection() called twice
+[20:19:30] [Server thread/INFO]: Villager class_1646['Villager'/44271, l='ServerLevel[world]', x=247.50, y=56.56, z=517.50] died, message: 'Villager suffocated in a wall'
+[20:19:31] [Server thread/INFO]: Villager class_1646['Villager'/43002, l='ServerLevel[world]', x=247.48, y=56.56, z=518.50] died, message: 'Villager suffocated in a wall'
