@@ -114,7 +114,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-17 21:17:27 +0000",
       "bread": "2024-12-08 22:44:59 +0000",
+      "cooked_chicken": "2024-12-17 21:18:52 +0000",
       "rotten_flesh": "2024-12-08 21:59:45 +0000",
       "cooked_mutton": "2024-12-10 18:11:42 +0000",
       "potato": "2024-12-10 21:47:13 +0000",
@@ -206,6 +208,7 @@
       "minecraft:spider": "2024-12-08 23:04:04 +0000",
       "minecraft:zombie": "2024-12-08 22:11:42 +0000",
       "minecraft:drowned": "2024-12-08 22:24:13 +0000",
+      "minecraft:zombie_villager": "2024-12-17 21:02:56 +0000",
       "minecraft:husk": "2024-12-08 22:43:43 +0000"
     },
     "done": false

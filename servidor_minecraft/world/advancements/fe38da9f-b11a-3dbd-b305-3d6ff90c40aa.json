@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 21:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-17 20:05:55 +0000"
@@ -872,6 +878,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 21:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-17 19:52:09 +0000"
@@ -1209,6 +1221,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-17 20:46:03 +0000",
+      "cooked_mutton": "2024-12-17 21:15:29 +0000",
       "mushroom_stew": "2024-12-17 19:47:56 +0000"
     },
     "done": false
