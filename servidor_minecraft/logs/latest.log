@@ -199,3 +199,8 @@
 [21:32:01] [Server thread/INFO]: ALEJANDROPANCHO was slain by Zombie
 [21:32:42] [Server thread/INFO]: ALEJANDROPANCHO was slain by Zombie
 [21:40:40] [Server thread/INFO]: They was slain by Enderman
+[21:47:45] [Server thread/INFO]: G4mer7447 lost connection: Disconnected
+[21:47:45] [Server thread/INFO]: G4mer7447 left the game
+[21:48:08] [Server thread/INFO]: G4mer7447[/127.143.71.218:56259] logged in with entity id 46238 at (305.49973521087344, 64.0, -187.69999998807907)
+[21:48:08] [Server thread/INFO]: G4mer7447 joined the game
+[21:52:13] [Server thread/INFO]: Villager class_1646['Nitwit'/40549, l='ServerLevel[world]', x=607.70, y=62.62, z=-326.30] died, message: 'Nitwit was slain by Zombie'
